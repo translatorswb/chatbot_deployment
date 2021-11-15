@@ -1,0 +1,7 @@
+sanic_jinja2
+gspread
+pandas
+subprocess.run
+#slack
+#slackclient
+

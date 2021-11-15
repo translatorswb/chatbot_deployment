@@ -1,0 +1,6 @@
+#rasa==1.10.2
+# spacy
+# spacy-langdetect
+fasttext
+nltk
+rasa==2.5.0

@@ -1,0 +1,257 @@
+[
+  {
+    "level": 1,
+    "question_index": 1,
+    "key": true,
+    "id": "utter_ask_quiz_level_1_question_1_1",
+    "utterance_topic": "utter_ask_quiz_level_1_question_1",
+    "question": {
+      "HAU": "Mu tane masu lafiya, ya kamata su bayar da tazara.",
+      "KAU": "Am nganza d\u01dd, sandiye kate amma ro kasam sakk\u01dd",
+      "ENG": "Healthy people should practice social distancing."
+    },
+    "answer": {
+      "HAU": "Ga abubuwan da \u0199wararru suke fa\u0257a don kariya daga Covid-19:  \\n\n \n \ud83e\udda0Wanke hannaye akai-akai (na a\u0199alla da\u0199i\u0199a ashirin 20) ta amfani da ruwa da sabulu ko kuma amfani da sinadarin tsabtace hannu mai \u0257auke da alkahol.  \\n\n \ud83e\udda0A bar ratar a\u0199alla mita 2 tsakaninku da juna yayin da ake a cikin mutane. \ud83d\udccf\ud83d\udc69\ud83c\udffe\u200d\ud83c\udf3e  \\n\n \ud83e\udda0Guji ta\u0253a idanu, hanci da baki \u2014 har sai an fara wanke hannuwa.  \\n\n \ud83e\udda0A zauna a gida idan ana jin rashin lafiya.  \\n\n\nHukumar lafiya ta dniya WHO da kuma wasu kwararru a fannin lafiya sun gano cewa wanke hannuwa akai-akai yana kare kamuwa da Covid-19 fiye da sanya safar hannu  \ud83d\udca6\ud83e\uddfc",
+      "KAU": "Ngo awo am nzunduwu d\u01dd ye gulzanawo kwasa Covid-19 be d\u01ddn yitkaa ro:  \\n\n\n\ud83e\udda0K\u01ddla k\u01ddla lan muskon\u01ddmma tulle (sekon 20 yayi ro) awo musko cinta be njia kuru shawullan tulle.  \\n\n\ud83e\udda0Nyi dawu jamayen na kasam mita 2 yayi indi katendon kwallo. \ud83d\udccf\ud83d\udc69\ud83c\udffe\u200d\ud83c\udf3e  \\n\n\ud83e\udda0 Shim n\u01ddmma let\u01dd wanne, k\u01ddnza n\u01ddmma kuru ci n\u01ddmma \u2014 buron muskon\u01ddmma tulle do.  \\n\n\ud83e\udda0 K\u01ddji fannumba maa faton namne.  \\n\n\nWorld Health Organization na cidawu nzunduwa nasha n\u01ddlefa be isa asuzana muko tultu kla klan d\u01dd shima kwasa Covid-19 be faijin kla zambu musko be faidat\u01dd ro. \ud83d\udca6\ud83e\uddfc\n\n",
+      "ENG": "Here is what the experts say can protect against COVID-19 infection:  \\n\n\n\ud83e\udda0Wash your hands regularly (for at least 20 seconds) with an alcohol-based hand gel or wash them with soap and water.  \\n\n\ud83e\udda0Maintain a distance of at least 2 metres from others when in public. \ud83d\udccf\ud83d\udc69\ud83c\udffe\u200d\ud83c\udf3e  \\n\n\ud83e\udda0Avoid touching your eyes, nose and mouth \u2014 wash your hands first.   \\n\n\ud83e\udda0Stay home if you don't feel well.  \\n\n\nThe World Health Organisation and other health experts have found that washing your hands regularly protects against Covid-19 better than wearing gloves. \ud83d\udca6\ud83e\uddfc"
+    }
+  },
+  {
+    "level": 1,
+    "question_index": 1,
+    "key": false,
+    "id": "utter_ask_quiz_level_1_question_1_2",
+    "utterance_topic": "utter_ask_quiz_level_1_question_1",
+    "question": {
+      "HAU": "Marasa lafiya ne kadai ya kamata su sanya takunkumin fuska a cikin taron jama'a",
+      "KAU": "Am dondi d\u01dd sandima dawu jami ye d\u01ddn zambu ikko murad\u01ddzana wo ",
+      "ENG": "Only sick people need to wear masks in public spaces."
+    },
+    "answer": {
+      "HAU": "Zaka iya kare kanka ka kuma kare wasu a cikin abubuwan hawa na haya ta hanyar bin matakan kariyar da hukumomin lafiya na duniya da NCDC suka bayar:  \\n\n\n\ud83e\uddfc \ud83d\udd90\ud83c\udffe Wanke hannu kafin tafiya  \\n\n\ud83d\ude37 Sanya takunkumin fuska  \\n\n\ud83d\udee3\ufe0f Kuyi kokarin tafiya lokutan da babu mutane da yawa ko kuma a bi hanyar da babu cunkoso, a kuma yi yar tafiyar kafa  \\n\n\ud83d\udeb6\ud83c\udfff\u200d\u2642\ufe0f ko kuma a je inda ake son zuwa a kafa idan da hali  \\n\n\ud83e\uddfc \ud83d\udd90\ud83c\udffe Da zarar an isa wurin da aka yi niyyar zuwa, a sake wanke hannu kamar yadda aka wanke a kafin fitowa",
+      "KAU": "Rak\u01ddm fain\u01ddmin kla n\u01ddmma am gaps\u01ddna soa awo k\u01ddmbaye jami mewula lan zawal kashimo be rowata done cidawu n\u01ddlefabe dunyabe ya NCDC a:  \\n\n\n\ud83e\uddfc \ud83d\udd90\ud83c\udffeMusko n\u01ddm ma tulle kawu len\u01ddmin no  \\n\n\ud83d\ude37 Zambu fuska be ikke  \\n\n\ud83d\udee3\ufe0f Blaro dimmin na sa zawal d\u01ddn kam ngu so ba lan blaro ne  \\n\n\ud83d\udeb6\ud83c\udfff Let\u01dd ngu so shi lan au dukso shi lan lene rakn\u01ddmin maa  \\n\n\ud83e\uddfc \ud83d\udd90\ud83c\udffe Z\u01ddbt\u01ddram n\u01ddm naamiya, muskon\u01ddm ma walt\u01ddne tulle\n\n\n",
+      "ENG": "You can protect yourself and others on public transport by following these guidelines from global health authorities and NCDC:  \\n\n\n\ud83e\uddfc \ud83d\udd90\ud83c\udffe Wash your hands before you go  \\n\n\ud83d\ude37 Wear a mask  \\n\n\ud83d\udee3\ufe0f Try to travel during quieter times or along less-busy routes  \\n\n\ud83d\udeb6\ud83c\udfff\u200d\u2642\ufe0f Walk some or all of the trip if you can  \\n\n\ud83e\uddfc \ud83d\udd90\ud83c\udffe Once you arrive at your destination, wash your hands again\n\n"
+    }
+  },
+  {
+    "level": 1,
+    "question_index": 1,
+    "key": true,
+    "id": "utter_ask_quiz_level_1_question_1_3",
+    "utterance_topic": "utter_ask_quiz_level_1_question_1",
+    "question": {
+      "HAU": "Idan wani a gidanmu yana da alamun COVID-19, ya kamata ya kebe kansa (kar yayi cudanya da mutanen gidan)",
+      "KAU": "Kam laa suro fanyi ye d\u01ddn shin alama COVID-19 ye mbeji wa sandiya s\u01ddriro t\u01ddt\u01ddluwu (am gade suro fato ye d\u01dd ro wande letanyi) ",
+      "ENG": "If someone in my house has symptoms of COVID-19 they should be isolated (stay away from) other people in the house. "
+    },
+    "answer": {
+      "HAU": "Masana sun ce, ba lallai ne sai kun bayar da tazara tsakaninku da abokan zama ko yan uwanku a gida ba sai dai idan kuna zargin wani ya kamu da COVID-19.\ud83d\udc9e  \\n\n\nHakan na nufin COVID19 na yaduwa ne daga mutum zuwa mutum, kun ga kenan karancin mutanen da kuka yi cudanya da su; raguwar shiga hadarin kamuwa da cutar da kuma yadawa abokan zamanku ko ragowar mutane.\n\n",
+      "KAU": "Mbu ngiyi niya fatoman\u0259m ma aw am gade sowa katen doro kasam yiko d\u0259 ad\u0259 dimmin sa sandiya t\u0259maa maro kwasa Covid-19 be d\u0259e zamz\u0259na maa do, Nzundumazu soye gulza. \ud83d\udc9e  \\n\n\n\nKwasa Covid-19 be d\u0259 kate kam soyin tartin, kam sowa nguu ro k\u0259ltem k\u0259n\u0259nga diyo ba d\u0259 shiye s\u0259kk\u0259 kwasa d\u0259ye niya zamjin ba kuru zamt\u0259 ba d\u0259e s\u0259kk\u0259 kam gade aw k\u0259rauma n\u0259m ro kwasa d\u0259a tarr\u0259m ba.",
+      "ENG": "You don't need to physically distance from your partner or others living in your house unless you suspect one of you might have COVID-19, experts say. \ud83d\udc9e  \\n\n\nThat said, COVID-19 spreads from person to person, so the fewer people you meet, the less chance you have of catching the virus and passing it to your partner or other loved ones.\n\n\n"
+    }
+  },
+  {
+    "level": 1,
+    "question_index": 2,
+    "key": false,
+    "id": "utter_ask_quiz_level_1_question_2_1",
+    "utterance_topic": "utter_ask_quiz_level_1_question_2",
+    "question": {
+      "HAU": "Antibiotics zasu iya maganin COVID-19.",
+      "KAU": "Antibiotic d\u01dd raks\u01dd COVID-19 d\u01dda ngaz\u01ddyin ",
+      "ENG": "Antibiotics can cure COVID-19."
+    },
+    "answer": {
+      "HAU": "\u274c Magungunan Antibiotics ba sa aiki akan \u0199wayoyin cuta dangin birus, kamar na Covid-19. \nMagungunan antibiotics suna aiki ne kawai akan \u0199wayoyin cuta na bakteriya.\ud83d\udc8a  \\n\n  \n\ud83c\udfe5 Wasu lokuta idan mutane sun samu kulawar Covid-19 a asibiti, suna samun magungunan antibiotics domin kulawa da \u0199arin wasu cutar bakteriyar da suke da shi, amma ba sa magance cutar Covid-19 a cewar Hukumar Lafiya ta Duniya.",
+      "KAU": "\u274c Kurun Antibiotic be cidajin bawo k\u01ddla kuli kwasabe so din, misallo Covid-19. Shi Antibiotic d\u01dd bacteria fallo kurunjin.\ud83d\udc8a  \\n\n  \n \ud83c\udfe5 Salaan amso d\u01dd sandiya Covid-19 din litarin ngat\u01ddya, sandiro antibiotic wa tin kwasawa bacteria ye suwud\u01ddna gadesowa ngat\u01ddro, amma shi Covid-19 d\u01dd rait\u01ddro g\u01ddnyi, futu World Health Organisation ye gulz\u01ddna d\u01dd yayi.",
+      "ENG": "\u274c Antibiotics do not work against viruses, like COVID-19. Antibiotics only work against bacteria.\ud83d\udc8a  \\n\n \n\ud83c\udfe5 Sometimes when people get treated for COVID-19 in the hospital, they get antibiotics to treat an additional bacterial infection they have, but not to treat the COVID-19 infection itself, according to the World Health Organisation."
+    }
+  },
+  {
+    "level": 1,
+    "question_index": 2,
+    "key": true,
+    "id": "utter_ask_quiz_level_1_question_2_2",
+    "utterance_topic": "utter_ask_quiz_level_1_question_2",
+    "question": {
+      "HAU": "A yanzu babu takamaiman maganin COVID-19.",
+      "KAU": "K\u01ddrma d\u01dd ro kurun COVID-19 ye d\u01dd bawo",
+      "ENG": "There is currently no treatment for COVID-19."
+    },
+    "answer": {
+      "HAU": "Babu wani takamaiman maganin Covid-19 - sai dai kawai allurar rigakafi don kiyaye kamuwa da ita - amma masanan kimiyya a fadin duniya na cigaba da gwaje-gwajen wasu magunguna da ake sanya rai su zamo magani a cewar NCDC \ud83d\udc69\ud83c\udffb\u200d\u2695\ufe0f\ud83d\udc68\ud83c\udfff\u200d\ud83d\udd2c\ud83e\uddea \n\n\n\n\n\n",
+      "KAU": "Kurun kwasa Covid-19 be nasku ba \u2013 awo daana shima kurun k\u01ddla yitkawu be kwasa d\u01dd fait\u01ddro - amma am sciencebe dinayi d\u01dd jarapsen kurun suro bozen ma antiviral daji kuru kurunna laa gade ngaz\u01ddyinma, NCDC gulz\u01dd. \ud83d\udc69\ud83c\udffb\u200d\u2695\ufe0f\ud83d\udc68\ud83c\udfff\u200d\ud83d\udd2c\ud83e\uddea ",
+      "ENG": "\nThere is no specific cure for COVID-19 \u2014 only vaccines to prevent infection \u2014 but scientists around the world are running trials on antiviral and other medications as potential treatments, NCDC says. \ud83d\udc69\ud83c\udffb\u200d\u2695\ufe0f\ud83d\udc68\ud83c\udfff\u200d\ud83d\udd2c\ud83e\uddea \n\n\n\n\n\n"
+    }
+  },
+  {
+    "level": 1,
+    "question_index": 2,
+    "key": false,
+    "id": "utter_ask_quiz_level_1_question_2_3",
+    "utterance_topic": "utter_ask_quiz_level_1_question_2",
+    "question": {
+      "HAU": "Duk wanda ya kamu da COVID-19 yana bukatar a duba shi a asibiti.",
+      "KAU": "Kam done shi lan COVID-19 mbejiyo so lez\u01dd litarin kurun diyo m\u01ddrad\u01ddz\u01ddna.",
+      "ENG": "Everyone with COVID-19 needs to be treated in a hospital."
+    },
+    "answer": {
+      "HAU": "Mafi yawan mutane suna warkewa daga Covid-19 ba tare da zama a asibiti. Idan kana da \u0257aya daga cikin wa\u0257annan alamomin:  \\n\n \n \ud83e\udda0 Tari  \\n\n \ud83e\udda0 Wahalar numfashi  \\n\n \ud83e\udda0 Zazza\u0253i  \\n\n \n ...Gwamnati za ta so ku garzaya ku yi gwaji kyauta don tabbatarwa ko lafiyarku kalau. Amma kowa a cikin iyalai na an yi masa gwaji kuma sun ce babu wata matsala \ud83d\udc97  \n\nIna sauraronka, ko zaka tambaye ni wurin da za a yi maka gwaji \u2014 Na san amsar! \ud83d\udc68\ud83c\udffe\ud83e\uddea",
+      "KAU": "Amwa g\u01ddwuso Covid-19 din ngazayin letarin namzayi yayi. Alamawa ad\u01dd nyi lan mbejiro fangam ma:  \\n\n \n \ud83e\udda0 Kasau  \\n\n \ud83e\udda0 Assadin yint\u01dd  \\n\n \ud83e\udda0 Kange  \\n\n \n ... Gomnatiye nyiye len\u01ddm ngal diye diwo d\u01dd s\u01ddrauna tawatt\u01ddro. Am fandeye dukso ngal d\u01dd sad\u01ddna kuru ngal d\u01dd batti g\u01ddyi ada \ud83d\udc97  \\n\n\nWa kore ndan rakn\u01ddm ngal dimmin no \u2013 ad\u01dd nog\u01ddna! \ud83d\udc68\ud83c\udffe\ud83e\uddea\n",
+      "ENG": "Most people recover from COVID-19 without having to stay in the hospital. If you have any of these symptoms:  \\n\n\n\ud83e\udda0 A cough  \\n\n\ud83e\udda0 Difficulty breathing  \\n\n\ud83e\udda0 A fever  \\n\n...the government would like you to go get a free test to confirm. Everyone in my family has been tested and they say it's not so bad \ud83d\udc97  \\n\n\nGo ahead, ask me where you can get tested \u2014 I know this one! \ud83d\udc68\ud83c\udffe\ud83e\uddea"
+    }
+  },
+  {
+    "level": 1,
+    "question_index": 3,
+    "key": true,
+    "id": "utter_ask_quiz_level_1_question_3_1",
+    "utterance_topic": "utter_ask_quiz_level_1_question_3",
+    "question": {
+      "HAU": "Daina jin kamshi ko wari ko kuma dandano alamu ne na COVID-19",
+      "KAU": "Kayino fant\u01dd bawo au Lele fant\u01dd bawo d\u01dd  alama COVID-19 ye ",
+      "ENG": "A loss of smell or taste is a symptom of COVID-19."
+    },
+    "answer": {
+      "HAU": "Hukumar Lafiya ta Duniya ta ce, wa\u0257annan sune alamun cutar Covid-19:  \\n\n \n Sanannun alamu;  \\n\n \ud83e\udda0Zazza\u0253i  \\n\n \ud83e\udda0tarin da babu majina  \\n\n \ud83e\udda0Gajiya  \\n\n \n Alamun da ba a sani ba sosai;  \\n\n \ud83e\udda0Ciwon jiki  \\n\n \ud83e\udda0Ciwon ma\u0199ogoro  \\n\n \ud83e\udda0Gudawa  \\n\n \ud83e\udda0Ciwon idanuwa  \\n\n \ud83e\udda0Ciwon kai  \\n\n \ud83e\udda0Rashin jin \u0257an\u0257ano ko \u0199amshi  \\n\n \ud83e\udda0\u0198ai\u0199ayin fata  \\n\n \ud83e\udda0Canjin launin yatsun hannu ko \u0199afa  \\n\n \n Alamu masu tsanani;  \\n\n \ud83e\udda0Wahalar numfashi ko \u0257aukewar numfashi.  \\n\n \ud83e\udda0Ciwon \u0199irji  \\n\n \ud83e\udda0Rashin iya magana ko motsi  \\n\n \n \ud83d\udcdd A wasu lokuta, wasu ba sa nuna kowace alama ko ka\u0257an.\n\n",
+      "KAU": "Futu karabka n\u01ddlefa be dinaye World Health Organisation bayanz\u01ddna d\u01dd, Alamaa Covid-19 be ad\u01dd:  \\n\n \n Alaamaa nowata ngai  \\n\n \ud83e\udda0Kange  \\n\n \ud83e\udda0Kasau harrata  \\n\n \ud83e\udda0Yim baro  \\n\n \n Alamaa doni zauro t\u01dddin bama  \\n\n \ud83e\udda0Tiyi lilim ta kuru tiyi zau wa  \\n\n \ud83e\udda0Dau zawu  \\n\n \ud83e\udda0Yarta  \\n\n \ud83e\udda0Shim halakta  \\n\n \ud83e\udda0K\u01ddla s\u01ddrun  \\n\n \ud83e\udda0Lele fant\u01dd baa kuru keuno fant\u01dd baa  \\n\n \ud83e\udda0Tiyin\u01ddm lan tuno luwo  \\n\n \ud83e\udda0Furamiya muskoye ya shiye ya so namt\u01dd  \\n\n \n Alamaaa doni zauro kura ma  \\n\n \ud83e\udda0Assadin kamme yin t\u01dd au yint\u01dd kori kori.  \\n\n \ud83e\udda0Kar\u01ddg\u01dd zawu au hangalza  \\n\n \ud83e\udda0Manaro tiyero au lat\u01ddro tiyero  \\n\n \ud83d\udcdd Laanza din, amwa laa gade sandiyakwasad\u01dd ye zamz\u01ddnaso d\u01dd tiyinzan alamad\u01ddma bawo as\u01ddlanmaro.",
+      "ENG": "According to the World Health Organisation, these are the symptoms of COVID-19:  \\n\n\nCommon symptoms  \\n\n\ud83e\udda0Fever  \\n\n\ud83e\udda0Dry cough  \\n\n\ud83e\udda0Tiredness  \\n\n\nLess common symptoms  \\n\n\ud83e\udda0Aches and pains  \\n\n\ud83e\udda0Sore throat  \\n\n\ud83e\udda0Diarrhoea  \\n\n\ud83e\udda0Conjunctivitis  \\n\n\ud83e\udda0Headache  \\n\n\ud83e\udda0Loss of taste or smell  \\n\n\ud83e\udda0A rash on your skin  \\n\n\ud83e\udda0Discolouration of fingers or toes  \\n\n\nSerious symptoms  \\n\n\ud83e\udda0Difficulty breathing or shortness of breath.  \\n\n\ud83e\udda0Chest pain or pressure  \\n\n\ud83e\udda0Loss of speech or movement  \\n\n\n\ud83d\udcdd In many cases, infected people have no symptoms at all. \n"
+    }
+  },
+  {
+    "level": 1,
+    "question_index": 3,
+    "key": true,
+    "id": "utter_ask_quiz_level_1_question_3_2",
+    "utterance_topic": "utter_ask_quiz_level_1_question_3",
+    "question": {
+      "HAU": "In dai an kamu da COVID-19, zata bayyana ne tsakanin kwana 2 zuwa 14 kafin nuna alama. ",
+      "KAU": "Nya COVID-19 ye zamjiya, kawu 2 kawu 14 saadin kawu alamanz\u01dd d\u01dd bayantin d\u01dd ro",
+      "ENG": "Once infected with COVID-19, it can take 2 to 14 days to show symptoms."
+    },
+    "answer": {
+      "HAU": "Lokaci tsakanin kamuwa da cutar da fara bayyanar alamunta ana kiransa da lokacin \u0199yan\u0199yasa. \ud83d\udcc6 \ud83e\udd12  \\n\nAlamun cutar Covid-19 yawanci suna farawa ne tsakanin kwana \u0257aya zuwa kwanaki goma sha hu\u0257u bayan an kamu da ita, a cewar Hukumar Lafiya ta Duniya WHO.",
+      "KAU": "Wotku kuli kwasabe d\u01dd k\u01ddntabewa kuru kawu shi alamwa d\u01dd fulejin d\u01dd shiro woktu kalt\u01ddben sha botin. \ud83d\udcc6 \ud83e\udd12  \\n\n Shi alamaa Covid-19 be d\u01dd g\u01ddwuso ro badi jin kate kawu falla kuru kawu 14 ngawo kuli kwasabe d\u01dd ro let\u01ddmaben, shi World Heath Organisation ne wano.",
+      "ENG": "The time between catching the virus and starting to show symptoms is called the incubation period. \ud83d\udcc6 \ud83e\udd12  \\n\nSymptoms of COVID-19 usually start between one and 14 days after you catch the virus, the World Heath Organisation says."
+    }
+  },
+  {
+    "level": 1,
+    "question_index": 3,
+    "key": false,
+    "id": "utter_ask_quiz_level_1_question_3_3",
+    "utterance_topic": "utter_ask_quiz_level_1_question_3",
+    "question": {
+      "HAU": "Idan baka da zazzabi mai zafi, to baka da COVID-19",
+      "KAU": "Nyin kange zau bawo maa nyin COVID-19 ba",
+      "ENG": "If you don't have a high fever you don't have COVID-19"
+    },
+    "answer": {
+      "HAU": "Mafi yawan mutane suna warkewa daga Covid-19 ba tare da zama a asibiti. Idan kana da \u0257aya daga cikin wa\u0257annan alamomin:  \\n\n \n \ud83e\udda0 Tari  \\n\n \ud83e\udda0 Wahalar numfashi  \\n\n \ud83e\udda0 Zazza\u0253i  \\n\n \n ...Gwamnati za ta so ku garzaya ku yi gwaji kyauta don tabbatarwa ko lafiyarku kalau. Amma kowa a cikin iyalai na an yi masa gwaji kuma sun ce babu wata matsala \ud83d\udc97  \n\nIna sauraronka, ko zaka tambaye ni wurin da za a yi maka gwaji \u2014 Na san amsar! \ud83d\udc68\ud83c\udffe\ud83e\uddea",
+      "KAU": "Amwa g\u01ddwuso Covid-19 din ngazayin letarin namzayi yayi. Alamawa ad\u01dd nyi lan mbejiro fangam ma:  \\n\n \n \ud83e\udda0 Kasau  \\n\n \ud83e\udda0 Assadin yint\u01dd  \\n\n \ud83e\udda0 Kange  \\n\n \n ... Gomnatiye nyiye len\u01ddm ngal diye diwo d\u01dd s\u01ddrauna tawatt\u01ddro. Am fandeye dukso ngal d\u01dd sad\u01ddna kuru ngal d\u01dd batti g\u01ddyi ada \ud83d\udc97  \\n\n\nWa kore ndan rakn\u01ddm ngal dimmin no \u2013 ad\u01dd nog\u01ddna! \ud83d\udc68\ud83c\udffe\ud83e\uddea\n",
+      "ENG": "Most people recover from COVID-19 without having to stay in the hospital. If you have any of these symptoms:  \\n\n\n\ud83e\udda0 A cough  \\n\n\ud83e\udda0 Difficulty breathing  \\n\n\ud83e\udda0 A fever  \\n\n...the government would like you to go get a free test to confirm. Everyone in my family has been tested and they say it's not so bad \ud83d\udc97  \\n\n\nGo ahead, ask me where you can get tested \u2014 I know this one! \ud83d\udc68\ud83c\udffe\ud83e\uddea"
+    }
+  },
+  {
+    "level": 1,
+    "question_index": 4,
+    "key": true,
+    "id": "utter_ask_quiz_level_1_question_4_1",
+    "utterance_topic": "utter_ask_quiz_level_1_question_4",
+    "question": {
+      "HAU": "Allurar rigakafin COVID-19 ba zata sa ka kamu da cutar COVID-19 ba",
+      "KAU": "Shi liwula kalimi COVID-19 ye d\u01dd nyiro kwasa COVID-19 ye d\u01dd cin bawo",
+      "ENG": "The COVID-19 vaccine cannot infect you with the COVID-19 disease."
+    },
+    "answer": {
+      "HAU": "Ga abinda hukumomin tallafi na kasa da kasa Red Cross da kuma Red Crecent (IFRC) suke cewa kan matsalar allurorin rigakafi:  \\n\n\n\"Kamar kowanne magani, allurorin rigakafi suna da nasu matsalolin. yawanci na gajeren lokaci ko masu tafiya nan take, kamar irinsu gajiya ko ciwon kai ko zafin allurar. Mutane da yawa ba sa samun kowacce matsala. \n\nYana iya faruwa da kowacce allurar rigakafi wasu su ji rashin lafiya gajera ta dan wani lokaci saboda garkuwar jikinsu ce take karbar sakon karin kwari, amma jin hakan ba na allurar rigakafin COVID-19 ba ne kuma allurar ba zata sawa wani COVID-19 ba.\"",
+      "KAU": "Waneye kalimi d\u01dd ye nyiro illa laa suwudin\n\nNgo awo done International Federation of Red Cross and Red Crescent Societies (IFRC) be kla kaziyii done liwula kalimi be suron d\u0259ana gulzana d\u0259:  \\n\n\n\u201cKurunna gade yeyi so, liwula kalimi ye d\u0259e raks\u0259 kaziyi suwudin. Ngun za so kammbayi au gana, shima na liwula sakk\u0259na d\u0259 zau yayi ro waljin, yimbaro au klas\u0259r\u0259n.  \\n\n\nAm nguu ro kaziyi suwudin ba, liwula kalimi be nguu lan waajin kamye tinz\u0259 gana kuttu fanjin sau duno tinz\u0259 d\u0259 protein tinz\u0259 d\u0259ro kalakciyin, amma ad\u0259 k\u0259ndondi kwasa Covid-19 be g\u0259yi, kuru liwula kalimi ye d\u0259 nyiro kwasa Covid-19 be cin ba wo.\u201d\n\n",
+      "ENG": "You might have side effects from taking the vaccine \n\nHere's what the International Federation of Red Cross and Red Crescent Societies (IFRC) says about vaccine side effects:  \\n\n\\n\nLike all medicines, vaccines can cause side effects. Most of these are mild and short-term, such as pain at the injection site, tiredness or a headache.  \\n\n\\n\nMany people don't get any side effects. It can happen with many vaccines that some people might feel slightly unwell because their immune system is responding to the protein, but this is not a COVID-19 illness and the vaccine can\u2019t give you COVID-19.\"\n\n\n\n"
+    }
+  },
+  {
+    "level": 1,
+    "question_index": 4,
+    "key": true,
+    "id": "utter_ask_quiz_level_1_question_4_2",
+    "utterance_topic": "utter_ask_quiz_level_1_question_4",
+    "question": {
+      "HAU": "Ko an yi maka allurar rigakafi, dole ne ka cigaba da bin matakan kariya kamar bayar da tazara da sanya takunkumi.",
+      "KAU": "Am liwula kalimi ye d\u01dd gozana d\u01dd kwamison katap nz\u01ddkaye misallo kate kamman kasam kwalt\u01dda kuru zambu ikko wa d\u01dd sad\u01dd\n",
+      "ENG": "People who have been vaccinated still need to follow protective measures like physical distancing and wearing masks."
+    },
+    "answer": {
+      "HAU": "Duk alluran rigakafin da Najeriya ta karba sai da aka tabbatar da sun bi matakai da hanyoyin tantance rashin illarsu daga hukumomin wasu kasashen da kuma NAFDAC, kuma duk allurorin na da karfin dakatar da wadanda aka yi wa bayyanar alamomi masu hadari na COVID-19 \ud83d\udc89 \ud83d\udcaf  \\n\n\nDuk da hakan, akwai bukatar mu cigaba da sanya takunkumin rufe hanci da bayar da tazara da kuma wanke hannu akai-akai ko bayan karbar allurar rigakafi, saboda har yanzu babu tabbacin cewa ko allurar rigakafin zata hana mu yadawa wasu cutar.",
+      "KAU": "Liwula kalimi be dukso done fandiyen ma d\u01dd nasha NAFDAC a lad\u01dda gade soa be tawatsana n\u01ddm ngla liwula d\u01dde d\u01dd, kuru dukso cida ng\u01ddla za ro tawatkata am liwula kalimi be de so gozana d\u01dd sandiya kwasa laa gade Covid-19 be gade got\u01dd ro dapcin \ud83d\udc89 \ud83d\udcaf  \\n\n\nAdaima kuru,zambu fuskaye d\u01dda yiko m\u01ddrad\u01ddt\u01ddna, kasam kate nyia kamma be ro iko wa muskon\u01ddm kla klan tultuwa so, ngawo liwula kalimi be d\u01dd goneman kunt\u01ddn, sau kwamison noniyen de liwula kalimi be  kwasa d\u01dd tart\u01dd ro dapcin na ro.\n\n\n",
+      "ENG": "All the vaccines that we get in Nigeria will have been proved safe and effective by regulators in other countries and by NAFDAC, and all of them will be effective in stopping vaccinated people from developing serious COVID-19 disease \ud83d\udc89 \ud83d\udcaf  \\n\n\nStill, we will need to keep wearing masks, physical distancing and washing hands regularly, even after we get vaccinated, because we don't yet know if vaccination can stop us from spreading the disease.\n\n\n"
+    }
+  },
+  {
+    "level": 1,
+    "question_index": 4,
+    "key": false,
+    "id": "utter_ask_quiz_level_1_question_4_3",
+    "utterance_topic": "utter_ask_quiz_level_1_question_4",
+    "question": {
+      "HAU": "Idan zaka iya dakatar da numfashi na tsawon dakika 10, to ba ka da COVID-19.",
+      "KAU": "Raknum yint\u01ddnum sekon 10 ron\u01ddminna nyin COVID-19 d\u01dd bawo",
+      "ENG": "If you can hold your breath for 10 seconds, you don\u2019t have COVID-19."
+    },
+    "answer": {
+      "HAU": "Najeriya ta amice da hanyoyi biyu na yin gwanji don gano wanda ya kamu da COVID-19. \n\nSune:  \\n\n\ud83e\uddea Gwajin PCR, wanda ake ganin shi yafi kowanne bayar da cikakken sakamako.  \\n\n\n\ud83e\uddea Gwajin RDTs, wanda yake fitar da sakamako cikin gaggawa fiye da gwajin PRC, amma yana iya fitar da sakamako mai kuskure.  \\n\n\u2795 Ko ma dai wane gwaji aka yi maka, zaka iya yarda da sakamakon idan ya nuna ka kamu a cewar masana.  \\n\n\n\u2796 Idan kuma sakamakon gwajin ya nuna baka da cutar, za a iya cewa a sake yi maka wani gwajin don tabbatarwa.  \\n\n\n\ud83c\udd93 Duk kowanne gwajin kyauta ne.  \\n\n\nKuna iya tambayar masu gwajin ko har tsawon yaushe zaku jira karbar sakamakon, ta wacce hanya za a turo muku sakamakon da kuma me zaka yi idan sakamakon bai zo ba.",
+      "KAU": "Nigeriyabe ngal kala indi kwasa Covid-19 be wut\u0259 ro kasaks\u0259:  \\n\n\n\ud83e\uddea Ngal PCR be, shiro ngalawo ro f\u0259lejin no ba.  \\n\n\n\ud83e\uddea Ngal Antigen-based Rapid Diagnostic tests (RDTs) be, shima dai ro result\u0259 f\u0259lejin no ngal PCR be d\u0259 yayi ro, amma result\u0259 kal kal g\u0259yi raks\u0259 f\u0259lejin.  \\n\n\n\u2795 Ngal ndaso dimmiya yayi, kwasa d\u0259 raks\u0259 nyi lan mbeji ro waljin, nzundumazu soye gulza.  \\n\n\n\u2796 Result\u0259 n\u0259m d\u0259n nyi lan ba f\u0259leno ma, watta nyiro ngal gade diye gulzen  \\n\n\n\ud83c\udd93 Ngal d\u0259 d\u0259kso de ro sadin.  \\n\n\nNa done nyiro ngal d\u0259a sadin d\u0259 sandiya koro ro sa result\u0259 d\u0259 nyia naziyin d\u0259 sand\u0259na, futu nyiro result\u0259 d\u0259a zuwazen d\u0259, daji kuru awo diwo be d\u0259a na d\u0259 nyia result\u0259 d\u0259ye naz\u0259nyi ma.\n\n\n",
+      "ENG": "Nigeria has approved two types of tests for detecting current COVID-19 infection:  \\n\n\n\ud83e\uddea PCR tests, which are considered the most accurate.  \\n\n\n\ud83e\uddea Antigen-based Rapid Diagnostic Tests (RDTs), which give results more quickly than PCR tests, but may produce more false negative results.  \\n \n\n\u2795 Regardless of what kind of test you get, you can be fairly sure that a positive result is accurate, health experts say.  \\n\n\n\u2796 If you get a negative result, you may be asked to take another test to confirm.  \\n\n\n\ud83c\udd93 All tests are free of charge.  \\n\n\nConsider asking at your testing site how long you might need to wait for the result, how it will be sent to you, and what to do if it doesn't come.\n\n\n"
+    }
+  },
+  {
+    "level": 1,
+    "question_index": 5,
+    "key": false,
+    "id": "utter_ask_quiz_level_1_question_5_1",
+    "utterance_topic": "utter_ask_quiz_level_1_question_5",
+    "question": {
+      "HAU": "Tsofaffi ne kadai zasu iya mutuwa ta dalilin COVID-19",
+      "KAU": "Am ng\u01ddlinza lez\u01ddna d\u01dd sandima sandiya COVID-19 ye lorujinno",
+      "ENG": "Only old people can die from COVID-19."
+    },
+    "answer": {
+      "HAU": "Tsofaffin mutane \ud83d\udc74\ud83c\udffe da wa\u0257anda suke da wasu ciwo na daban kamar (hawan jini, matsalolin zuciya ko huhu, ciwon sukari ko ciwon daji) sun fi yiwuwar samun alamun cutar mai tsanani.  \\n\n\n\ud83d\udc67\ud83c\udffe A cewar hukumar lafiya ta duniya, yara ma suna cikin hadarin kamuwa da COVID-19.  \\n\n \nAmma kowa na iya kamuwa da Covid-19 kuma ya yi rashin lafiya mai tsanani. \ud83c\udfb2\n\n\n",
+      "KAU": "\ud83d\udc74\ud83c\udffe Am kurawa kuru amwa do tiyinzan kwsa gade mbejimaso d\u01dd (kwasa buye, kar\u01ddg\u01ddye au huhuye, kwasa s\u01ddwurye, au tunu kura) sandi lan waneye kwasa zaujin.  \\n\n\n\ud83d\udc67\ud83c\udffe Duliso d\u01dd ye sandiya raks\u01dd tajirwa Covid-19 be zamjin, futu karabka n\u01ddlefabe dunyabe World Health Organisation be gulz\u01ddna d\u01dd.  \\n\n\n\ud83c\udfb2Kwamison, ndu yayi sha Covid-19 be raks\u01dd zamjin kuru zauro dondi ro waljin.\n\n",
+      "ENG": "\ud83d\udc74\ud83c\udffe Older people and those with other health conditions (high blood pressure, heart or lung problems, diabetes or cancer) are more likely to have serious symptoms.  \\n\n\n\ud83d\udc67\ud83c\udffe Children are also at risk of catching COVID-19, according to the World Health Organisation.  \\n\n\n\ud83c\udfb2Still, anyone can get COVID-19 and become seriously ill. \n "
+    }
+  },
+  {
+    "level": 1,
+    "question_index": 5,
+    "key": false,
+    "id": "utter_ask_quiz_level_1_question_5_2",
+    "utterance_topic": "utter_ask_quiz_level_1_question_5",
+    "question": {
+      "HAU": "Hadarin COVID-19 bai wuce na mura ba.",
+      "KAU": "COVID-19 d\u01dd tantanyi wa num zauyin koz\u01ddnyi",
+      "ENG": "COVID-19 isn't more dangerous than the flu.   "
+    },
+    "answer": {
+      "HAU": "Wasu muhimman bambanci tsakanin mura da COVID-19:  \\n\n\n\ud83e\udda0 COVID-19 mafi yawan lokuta na iya haifar da matsanancin rashin lafiyar dake bukatar ganin kwararru sabanin mura.  \\n\n\n\ud83e\udda0 COVID-19 tana kashe mutane fiye da mura.  \\n\n\n\ud83e\udda0 COVID-19 tana yaduwa da sauri fiye da mura.  \\n\n\n\ud83e\udda0 COVID-19 akwai magungunan da aka amince da su na mura, amma har yanzu babu wani sahihin maganin COVID-19 da aka sani.  \\n\n\n\ud83e\udda0 Mura yawanci bata gusar da dandano ko saka daina jin wari, amma COVID-19 wani lokacin zai iya kawo su.  \\n\n\nAbin dadin shi ne matakan da ake dauka na kariya daga daukar COVID-19 shi ne kuma zai taimaka wajen bayar da kariya daga kamuwa da mura.\n\n",
+      "KAU": "Awoa laa so done kwasa Covid-19 be ya tantayi ya yaks\u01ddna d\u01dd sandima:  \\n\n\n\ud83e\udda0 Kwasa Covid-19 be d\u0259e raks\u0259 n\u0259lefa baa naa koz\u0259na kam ro kamro suwudin litari ro lez\u0259yi mbu ro sha s\u0259din kwasa tantayi be yayi ro.  \\n\n\n\ud83e\udda0 Covid-19 d\u0259 shima kam so nguu ro cez\u0259na wo tantayi yayi ro.  \\n\n\n\ud83e\udda0 Covid-19 d\u0259 shima k\u0259sken am soro tartin wo tantayi yayi ro.  \\n\n\n\ud83e\udda0 Kurun tantayi be kasakkata so mbeji, amma kurun Covid-19 be kambo ro kasaksana ma ba d\u0259 ba.  \\n\n\n\ud83e\udda0 Tantayi d\u0259 nguu ro lele fant\u01dd baa kuru keuno fant\u01dd baa suwudin ba, amma salaan shi Covid 19 d\u01dd ad\u01dd suwudin.  \\n\n\nAwoye ng\u01ddlanz\u01dd d\u01dd shima zawal done gam k\u01ddlan\u01ddm ma kwasa Covid-19 be ro yitkaa min d\u01dd nya tantayi be ro s\u01ddtkayin.",
+      "ENG": "Some key differences between the flu and COVID-19:  \\n\n\n\ud83e\udda0 COVID-19 infection is more likely to cause serious illness and require medical attention than the flu.  \\n\n\n\ud83e\udda0 COVID-19 has a higher death rate than the flu.  \\n \n\n\ud83e\udda0 COVID-19 spreads more quickly than the flu.  \\n\n\n\ud83e\udda0 There are approved treatments for the flu, but no widely approved treatments for COVID-19.  \\n\n\n\ud83e\udda0 The flu does not usually cause loss of taste and smell, but COVID-19 can sometimes cause this symptom.  \\n\n\nThe good news is that the same measures that help protect you from COVID-19 infection also help you protect against the flu.\n\n\n\n"
+    }
+  },
+  {
+    "level": 1,
+    "question_index": 5,
+    "key": true,
+    "id": "utter_ask_quiz_level_1_question_5_3",
+    "utterance_topic": "utter_ask_quiz_level_1_question_5",
+    "question": {
+      "HAU": "Shan sinadarai dangin methanol da ethanol ba zasu kare ni daga kamuwa da COVID-19",
+      "KAU": "Ethanol au kurun gade kuli kwasa ye njezoma d\u01dd k\u01ddnzaye nya COVID-19 ye k\u01ddnta ro dabcin bawo",
+      "ENG": "Drinking methanol, ethanol or other disinfectants cannot protect me against COVID-19"
+    },
+    "answer": {
+      "HAU": "Ga wasu abubuwa da ba sa aiki ko ka\u0257an akan Covid-19:  \\n\n \n \u274c Shan Sigari \u2014 wannan zai yi maku illa \ud83d\udeac  \\n\n \u274c Shan magunguna antibiotics \u2014 COVID-19 rukunin \u0199wayar cutar birus ce, kuma magungunan antibiotics ba sa aiki akan birus \ud83d\udc8a  \\n\n \u274c Shan sinadaran kashe \u0199wayoyin cuta \u2014 yin wannan zai iya janyowa a rasa rai.  \\n\n\u274c Chitta ba ya warkar da corona  \\n\n  \n Ga abubuwan da hukumar Lafiya ta Duniya ta ce game da wa\u0257annan da sauran jita-jita (Da Turanci kawai) \ud83d\udc49\ud83c\udffe https://bit.ly/37OgW73\n",
+      "KAU": "Ngawo awo laa Covid-19 d\u01dd ro t\u01ddmmaro faidajinba ma:  \\n\n \n \u274c Tafa yawo \u2014 ad\u01dd d\u01dd nyiro zawu g\u01ddnaz\u01ddyin \ud83d\udeac  \\n\n \u274c Kurunna antibiotics be k\u01ddnza \u2014 shi Covid d\u01dd kuli kwasa, kuru shi antibiotics d\u01dd kuli kwasabe ro faidajin bawo \ud83d\udc8a  \\n\n \u274c Nji kurunne kuli kwasa cintabe k\u01ddnza \u2014 ad\u01ddwa k\u01ddndo d\u01dd nya chejin  \\n\n\u274c Kajiwar raksu corona da gojin ba  \\n\n \n  Ngoshi awo doni karabka n\u01ddlefabe dunyabe bayanz\u01ddna ma World Health Organization ne k\u01ddla fane-fane gade amwaso be gulzayin din (Nasara bas) \ud83d\udc49\ud83c\udffe https://bit.ly/37OgW73",
+      "ENG": "Here are some things that don't work at all against COVID-19:  \\n\n\n\u274c Smoking \u2014 this can only hurt you  \ud83d\udeac  \\n\n\u274c Taking antibiotics \u2014 COVID-19 is a virus, and antibiotics don't work against viruses \ud83d\udc8a  \\n\n\u274c Drinking disinfectants \u2014 doing this could kill you  \\n\n\u274cGinger does not cure against corona  \\n\n  \\n\n\n Here's what the World Health Organization says about these and other rumours (English only) \ud83d\udc49\ud83c\udffe https://bit.ly/37OgW73"
+    }
+  }
+]
