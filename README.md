@@ -59,4 +59,4 @@ We use Certbot as the provider for SSL certificates:
 
 - [Install RasaX with Docker Compose](https://rasa.com/docs/rasa-x/installation-and-setup/install/docker-compose)
 - [Rasa Playground](https://rasa.com/docs/rasa/playground)
-- [Securing with SSL](<[guide](https://rasa.com/docs/rasa-x/installation-and-setup/customize#securing-with-ssl))
+- [Securing with SSL](https://rasa.com/docs/rasa-x/installation-and-setup/customize#securing-with-ssl)
