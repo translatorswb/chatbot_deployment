@@ -8,8 +8,8 @@ PASSWORD = ""
 
 LANGUAGES = ['ENG','HAU','KAU']
 
-BOT_STRINGS_SHEET = "https://docs.google.com/spreadsheets/d/1dgWSkbLn-Sy5WNnZrNIxqUR0R-wW-KIFDskYrb_wpb0/edit#gid=79369888"
-NLU_SHEET = "https://docs.google.com/spreadsheets/d/17jKT6O1GFQgQOWzFhDe8jEEbJBkUVhe7HK8eSNlbjlU/edit#gid=126915115"
+BOT_STRINGS_SHEET = ""
+NLU_SHEET = ""
 
 payload = {
     "username": USERNAME,
